@@ -1,0 +1,2 @@
+# AUCA-Geophysics
+Internship
